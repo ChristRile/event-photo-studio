@@ -1,0 +1,14 @@
+- This is an existing application.
+- Inspect existing implementations before editing.
+- Reuse existing components, services, and routes.
+- Never recreate a page that already exists.
+- Never refactor unrelated code.
+- Modify only files necessary for the requested feature.
+- Do not reinstall dependencies unless required.
+- Preserve Material UI and Atomic Design.
+- Preserve existing functionality.
+- Do not modify .gitignore unless requested.
+- Do not commit automatically.
+- Keep explanations concise.
+- Run only relevant tests or build checks.
+- Do not implement future roadmap features.

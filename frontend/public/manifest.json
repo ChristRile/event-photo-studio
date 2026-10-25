@@ -1,0 +1,9 @@
+{
+  "short_name": "Photo Studio",
+  "name": "Event Photo Studio",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#26352F",
+  "background_color": "#F7F6F2"
+}
